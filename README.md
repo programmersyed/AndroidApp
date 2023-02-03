@@ -5,7 +5,7 @@ Submitted by: *Ibrahim Syed*
 
 *Intro App* is an android app that shows an image and introductory message, and allows pressing a button to display a Toast. 
 
-Time spent: *3* hours spent in total
+Time spent: *6* hours spent in total
 
 ## Required Features
 
@@ -23,10 +23,10 @@ The following *optional* features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='animation.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with [ScreenToGif  
+GIF created with ScreenToGif  
 
 ## Notes
 
